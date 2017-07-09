@@ -1,0 +1,7 @@
+DOSO
+
+is the the 'Dice of Symbolique Outcome' write up of a roleplaying system.
+
+It is based on the idea that it is easier to count symbols on some dice than summing up succees effects (see variant 1)
+
+OTOH hand, dice with specialsymbols are hard to come by,so here are also some modules containing symbol ideas: __fromBoardgame.doso.txt__ and __fromOthr.doso.txt__

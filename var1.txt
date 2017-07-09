@@ -1,0 +1,24 @@
+roll xd20
+    2base dice +lvls (experienced,expert,master) ## (3 powz lvls in 7s(faty))
+    inspiration, resourcen(gifts, not sweetenerz)
+
+under or equal #SN
+    base 10
+    technical skill
+    aspects
+    advantage
+
+get effect points basedon roll under:
+0-(1/2up)           1
+(1/2dwn)-(1/4up)    2
+(1/4dwn)-(1/8up)    3
+(1/8dwn)-(1/16up)   4
+(1/16dwn)           5
+
+OUTCOME RANGES:
+1   normal
+3   good
+5   exelent
+9   Masterful
+15  a piece of Art
+23 Legendary
